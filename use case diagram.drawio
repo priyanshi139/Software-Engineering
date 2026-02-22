@@ -1,0 +1,135 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.5.1">
+  <diagram name="Page-1" id="QRq5Lvp44Y_JR1tDa_Ye">
+    <mxGraphModel dx="2135" dy="993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XaRMo_98ctS1184zbLPX-1" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="«Subsystem» WedCircle App" vertex="1">
+          <mxGeometry height="483" width="652" x="20" y="195" as="geometry" />
+        </mxCell>
+        <mxCell id="XaRMo_98ctS1184zbLPX-2" parent="1" style="rounded=1;arcSize=20;strokeWidth=2" value="Search Vendors" vertex="1">
+          <mxGeometry height="54" width="139" x="309" y="589" as="geometry" />
+        </mxCell>
+        <mxCell id="XaRMo_98ctS1184zbLPX-3" parent="1" style="rounded=1;arcSize=20;strokeWidth=2" value="Book Services" vertex="1">
+          <mxGeometry height="54" width="127" x="315" y="485" as="geometry" />
+        </mxCell>
+        <mxCell id="XaRMo_98ctS1184zbLPX-4" parent="1" style="rounded=1;arcSize=20;strokeWidth=2" value="Leave Review" vertex="1">
+          <mxGeometry height="54" width="127" x="315" y="381" as="geometry" />
+        </mxCell>
+        <mxCell id="XaRMo_98ctS1184zbLPX-5" parent="1" style="rounded=1;arcSize=20;strokeWidth=2" value="Checkout" vertex="1">
+          <mxGeometry height="54" width="97" x="330" y="277" as="geometry" />
+        </mxCell>
+        <mxCell id="XaRMo_98ctS1184zbLPX-6" parent="1" style="rounded=1;arcSize=20;strokeWidth=2" value="Payment" vertex="1">
+          <mxGeometry height="54" width="92" x="535" y="381" as="geometry" />
+        </mxCell>
+        <mxCell id="XaRMo_98ctS1184zbLPX-7" parent="1" style="rounded=1;arcSize=20;strokeWidth=2" value="Help" vertex="1">
+          <mxGeometry height="54" width="63" x="74" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="XaRMo_98ctS1184zbLPX-8" parent="1" style="rounded=1;arcSize=20;strokeWidth=2" value="Make Payment" vertex="1">
+          <mxGeometry height="54" width="133" x="515" y="485" as="geometry" />
+        </mxCell>
+        <mxCell id="XaRMo_98ctS1184zbLPX-9" parent="1" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" value="Family/Couple" vertex="1">
+          <mxGeometry height="120" width="120" x="45" y="713" as="geometry" />
+        </mxCell>
+        <mxCell id="XaRMo_98ctS1184zbLPX-10" parent="1" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" value="Vendor" vertex="1">
+          <mxGeometry height="65" width="65" x="549" y="67" as="geometry" />
+        </mxCell>
+        <mxCell id="XaRMo_98ctS1184zbLPX-11" parent="1" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" value="Admin" vertex="1">
+          <mxGeometry height="60" width="60" x="348" y="713" as="geometry" />
+        </mxCell>
+        <mxCell id="XaRMo_98ctS1184zbLPX-12" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="fa:fa-university Payment Gateway" vertex="1">
+          <mxGeometry height="54" width="189" x="725" y="381" as="geometry" />
+        </mxCell>
+        <mxCell id="XaRMo_98ctS1184zbLPX-13" parent="1" style="rounded=1;arcSize=20;strokeWidth=2" value="Manage Profile" vertex="1">
+          <mxGeometry height="54" width="135" x="752" y="124" as="geometry" />
+        </mxCell>
+        <mxCell id="XaRMo_98ctS1184zbLPX-14" parent="1" style="rounded=1;arcSize=20;strokeWidth=2" value="Accept/Reject Booking" vertex="1">
+          <mxGeometry height="54" width="194" x="722" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XaRMo_98ctS1184zbLPX-15" edge="1" parent="1" source="XaRMo_98ctS1184zbLPX-5" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.77;exitY=0.99;entryX=0;entryY=0.49;rounded=0;" target="XaRMo_98ctS1184zbLPX-6" value="&amp;lt;&amp;gt;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="481" y="408" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XaRMo_98ctS1184zbLPX-16" edge="1" parent="1" source="XaRMo_98ctS1184zbLPX-7" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.99;exitY=0.63;entryX=0;entryY=0.39;rounded=0;" target="XaRMo_98ctS1184zbLPX-5" value="Request Help">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="237" y="288" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XaRMo_98ctS1184zbLPX-17" edge="1" parent="1" source="XaRMo_98ctS1184zbLPX-9" style="curved=1;startArrow=none;endArrow=block;exitX=0.92;exitY=0;entryX=0;entryY=0.49;rounded=0;" target="XaRMo_98ctS1184zbLPX-2" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="237" y="616" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XaRMo_98ctS1184zbLPX-18" edge="1" parent="1" source="XaRMo_98ctS1184zbLPX-9" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=0;entryX=0;entryY=0.49;rounded=0;" target="XaRMo_98ctS1184zbLPX-3" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="237" y="512" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XaRMo_98ctS1184zbLPX-19" edge="1" parent="1" source="XaRMo_98ctS1184zbLPX-9" style="curved=1;startArrow=none;endArrow=block;exitX=0.68;exitY=0;entryX=0;entryY=0.49;rounded=0;" target="XaRMo_98ctS1184zbLPX-4" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="237" y="408" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XaRMo_98ctS1184zbLPX-20" edge="1" parent="1" source="XaRMo_98ctS1184zbLPX-9" style="curved=1;startArrow=none;endArrow=block;exitX=0.65;exitY=0;entryX=0;entryY=0.76;rounded=0;" target="XaRMo_98ctS1184zbLPX-5" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="237" y="346" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XaRMo_98ctS1184zbLPX-21" edge="1" parent="1" source="XaRMo_98ctS1184zbLPX-5" style="curved=1;startArrow=none;endArrow=none;exitX=1;exitY=0.26;entryX=0.21;entryY=0.99;rounded=0;" target="XaRMo_98ctS1184zbLPX-10" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="481" y="277" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XaRMo_98ctS1184zbLPX-22" edge="1" parent="1" source="XaRMo_98ctS1184zbLPX-7" style="curved=1;startArrow=none;endArrow=none;exitX=0.99;exitY=0.4;entryX=0.13;entryY=0.99;rounded=0;" target="XaRMo_98ctS1184zbLPX-10" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="237" y="236" />
+              <mxPoint x="481" y="236" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XaRMo_98ctS1184zbLPX-23" edge="1" parent="1" source="XaRMo_98ctS1184zbLPX-10" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.77;entryX=0;entryY=0.5;rounded=0;" target="XaRMo_98ctS1184zbLPX-13" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="672" y="151" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XaRMo_98ctS1184zbLPX-24" edge="1" parent="1" source="XaRMo_98ctS1184zbLPX-10" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.21;entryX=0;entryY=0.5;rounded=0;" target="XaRMo_98ctS1184zbLPX-14" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="672" y="47" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XaRMo_98ctS1184zbLPX-25" edge="1" parent="1" source="XaRMo_98ctS1184zbLPX-6" style="curved=1;startArrow=none;endArrow=none;exitX=1;exitY=0.49;entryX=0;entryY=0.49;rounded=0;" target="XaRMo_98ctS1184zbLPX-12" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XaRMo_98ctS1184zbLPX-26" edge="1" parent="1" source="XaRMo_98ctS1184zbLPX-11" style="curved=1;startArrow=none;endArrow=none;exitX=0.73;exitY=-0.01;entryX=0;entryY=0.49;rounded=0;" target="XaRMo_98ctS1184zbLPX-8" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="481" y="512" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
