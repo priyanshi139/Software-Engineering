@@ -1,5 +1,8 @@
-
 {
-  "name": "TheShaadiDesk",
-  "description": "A premium, luxury wedding planning mobile app homepage featuring an elegant editorial layout with heritage Indian wedding touches and sophisticated gold accents."
+  "name": "Remix: WedCircle - Affordable Indian Wedding Planner",
+  "description": "A budget-friendly wedding planning platform tailored for the Indian market featuring vendor management, budget tracking, and planning tools.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
 }
